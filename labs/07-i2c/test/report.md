@@ -10,6 +10,9 @@
    * SPI pins
    * external interrupt pins INT0, INT1
 
+
+![2022-11-14 19 57 33](https://user-images.githubusercontent.com/99403641/201743106-d4223191-6360-433b-a58b-bb118f91e7b8.jpg)
+
   
 
 ### I2C communication
