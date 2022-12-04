@@ -57,6 +57,7 @@ Application of analog joy-stick (2 ADC channels, 1 push button), rotary encoder,
 * RW to GND
 * Rs and En to digital pins 8 and 9
 
+<img width="708" alt="Screenshot 2022-12-04 at 19 59 34" src="https://user-images.githubusercontent.com/99403641/205509958-d04eb5fd-29b5-4b95-9282-72a58216b41c.png">
 
 
 ## Software description
