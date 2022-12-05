@@ -62,7 +62,7 @@ Application of analog joy-stick (2 ADC channels, 1 push button), rotary encoder,
 
 ## Software description
 
-![image](https://user-images.githubusercontent.com/99403641/205745356-f3fedeb4-9482-4186-86da-bcf0b4962919.png)
+![image](https://user-images.githubusercontent.com/99403641/205746796-ee7277b4-0995-41f1-b806-22e3f32c70b7.png)
 
 
 #### Photo n.1 Explanation of exactly how the joystick communicates
