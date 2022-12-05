@@ -68,7 +68,6 @@ Put flowchats of your algorithm(s). Write descriptive text of your libraries and
 
 https://youtu.be/TYtGJ6Hw6UY
 
-## References
+## Reference
 
-1. Write your text here.
-2. ...
+1. https://www.c-sharpcorner.com/article/how-to-connect-arduino-joystick-in-arduino-uno/
