@@ -149,8 +149,6 @@ ISR(ADC_vect)
     static int mins2  = 2;
     static int hours1 = 0;
     static int hours2 = 4;
-    static int minsL1 = 0;
-    static int minsL2 = 0;
     static int hourL1 = 0;
     static int hourL2 = 0;
 
