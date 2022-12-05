@@ -31,8 +31,8 @@ Application of analog joy-stick (2 ADC channels, 1 push button), rotary encoder,
 
 ### Team members
 
-* Bohdan Tsariuchenko (responsible for xxx)
-* Kasatkin Alexey (responsible for xxx)
+* Bohdan Tsariuchenko (code, circuit diagram)
+* Kasatkin Alexey (code, circuit diagram)
 
 ## Hardware description
 
@@ -66,7 +66,7 @@ Put flowchats of your algorithm(s). Write descriptive text of your libraries and
 
 ## Video
 
-Insert a link to a short video with your practical implementation example (1-3 minutes, e.g. on YouTube).
+https://youtu.be/TYtGJ6Hw6UY
 
 ## References
 
