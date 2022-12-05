@@ -62,7 +62,10 @@ Application of analog joy-stick (2 ADC channels, 1 push button), rotary encoder,
 
 ## Software description
 
-Put flowchats of your algorithm(s). Write descriptive text of your libraries and source files. Put direct links to these files in `src` or `lib` folders.
+![image](https://user-images.githubusercontent.com/99403641/205737350-e664b5f9-d022-440a-8d4d-478b0e98c341.png)
+
+#### Photo n.1 Explanation of exactly how the joystick communicates
+
 
 ## Video
 
