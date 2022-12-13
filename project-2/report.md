@@ -52,6 +52,8 @@ By setting the registers and the TIMER1_ovf_vect interrupt, we set the generatio
 
 ![IMG_5114](https://user-images.githubusercontent.com/99403641/207389696-7a23456c-58b3-42c9-b48a-b7e5692c1cd1.jpg)
 
+Photo. 3 - Calculations of the values used in setting the PWM signal generation
+
 
 ## Video
 https://youtube.com/shorts/XYn5CBHAyrE?feature=share
