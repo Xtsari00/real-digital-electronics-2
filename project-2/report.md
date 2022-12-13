@@ -34,7 +34,8 @@ Generovanie PWM signálu. Aplikácia dvoch alebo viacerých Servo motorov SG90.
 * V+ na +5V
 * SIG na digitálný pin 10, ktorý generuje pwm signál
 
-![Schematic](images/schematic1.png)
+![image](https://user-images.githubusercontent.com/99403641/207333823-ff0152bc-980c-4dc5-b27e-08ee8bdcb350.png)
+
 
 Obr. 1 - Zapojenie v programe SimulIDE
 
