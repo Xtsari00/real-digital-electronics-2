@@ -50,7 +50,6 @@ Using the PCINT0_vect interrupt, which responds to pressing the connected button
 
 By setting the registers and the TIMER1_ovf_vect interrupt, we set the generation of the PWM signal that controls the Servo SG90 motors. According to the technical sheet, the 10th mode was used for generation. The upper limit of the PWM signal is determined by ICR1, the value of which is 2500 for a 64-bit prescaler. Thanks to this, we set my output signal to 50 Hz. The alternation of the generated signal determines the position of the motor arm. With the help of internet articles and then empirically, the values for the lowest and highest position of the engine were determined. For the lowest value, i.e. At 0° it is necessary for the positive pulse to last approximately 1 ms, for 90° 1.5 ms and for 180° a positive pulse of approx. 2 ms is required. The calculations are shown in the attached fig. 2.
 
-Obr. 2 - Výpočty hodnôt použitých pri nastavení generovania PWM signálu
 
 ## Video
 https://youtube.com/shorts/XYn5CBHAyrE?feature=share
