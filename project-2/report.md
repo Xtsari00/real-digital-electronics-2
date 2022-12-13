@@ -1,8 +1,8 @@
-# Projekt 2
+# Projekt 2- motor rotation
 
-Generovanie PWM signálu. Aplikácia dvoch alebo viacerých Servo motorov SG90.
+PWM signal generation. Application of two or more Servo motors SG90.
 
-## Štruktúra projektu
+## Project structure
 
    ```c
    YOUR_PROJECT        // PlatfomIO project
