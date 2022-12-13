@@ -1,4 +1,4 @@
-# Projekt 2- motor rotation
+# Projekt-2 Motor rotation
 
 PWM signal generation. Application of two or more Servo motors SG90.
 
