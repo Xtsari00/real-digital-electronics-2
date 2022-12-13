@@ -14,32 +14,33 @@ PWM signal generation. Application of two or more Servo motors SG90.
    │     └── gpio.c                   
    ├── src             // Source file(s)
    │   └── main.c
+   ├── test     
    ├── platformio.ini  // Project Configuration File
-   └── README.md       // Report of this project
+   └── report.md       // Report of this project
    ```
 
-## Členovia týmu
+## Team members
 
-* Petra Slotová (zodpovedná za kód, schému a video)
-* Natália Pločeková (zodpovedná za kód, schému a vývojové diagramy)
+* Bohdan Tsariuchenko (responsible for code, schematic and video)
+* Kasatkin Alexey (responsible for code, schematic and video)
 
-## Popis zapojenia hardvéru
-### Prvý Servo motor SG90
-* GND na GND
-* V+ na +5V
-* SIG na digitálný pin 9, ktorý generuje pwm signál
+## Description of the hardware connection
+### The first Servo motor SG90
+* GND to GND
+* V+ to +5V
+* SIG to digital pin 9, which generated pwm signal
 
-### Druhý Servo motor SG90
-* GND na GND
-* V+ na +5V
-* SIG na digitálný pin 10, ktorý generuje pwm signál
+### Second Servo motor SG90
+* GND to GND
+* V+ to +5V
+* SIG to digital pin 9, which generated pwm signal
 
 ![image](https://user-images.githubusercontent.com/99403641/207333823-ff0152bc-980c-4dc5-b27e-08ee8bdcb350.png)
 
 
-Obr. 1 - Zapojenie v programe SimulIDE
+Photo. 1 - Connection in the SimulIDE program
 
-## Popis softvéru
+## Software description
 
 Pomocou prerušenia PCINT0_vect, ktoré reaguje na stlačenie pripojeného tlačidla meníme hodnotu parametru MOVE a tým určujeme, ktorý motor sa bude pohybovať.
 
